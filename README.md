@@ -1,3 +1,3 @@
 # Wypozyczalnia_ksiazek
 
-Program symulujący prostą wypożyczalnie książek napisany w języku java.
+Program symulujący prostą wypożyczalnie książek napisany w języku C++.
